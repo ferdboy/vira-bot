@@ -2,7 +2,7 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖AR15BOT🤖'; // Nama Bot Whatsapp
+const BotName = '🤖AOT🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/+6285722553839'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
